@@ -9,7 +9,7 @@ The Data
 ========================================================
 
 This is a shiny adaptation of the lab from page 363 of Introduction to Statistical Learning book.
-The data consists of 200 (x,y) points with 100 of those with x centered around 2, 50 around -2 and 50 around 0. The first 150 has been assigned a y value of 1 and the rest 2.  
+The data consists of 200 (x,y) points with 100 of those with x centered around 2, 50 around -2 and 50 around 0. The first 150 has been assigned a to the class 1 and the rest to 2.  
 
 ```{r}
 library(e1071)
